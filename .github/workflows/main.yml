@@ -29,3 +29,4 @@ jobs:
           gcloud auth list
           gcloud projects list
           gcloud secrets list
+          gcloud auth print-access-token
